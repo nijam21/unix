@@ -1,1 +1,1 @@
-echo1 "hello Nijamuddin Khan"
+echo "hello Nijamuddin Khan"
